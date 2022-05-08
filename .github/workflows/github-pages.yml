@@ -4,12 +4,13 @@ on:
   push:
     branches:
       - main
+      - jekyll-4-grdryn
 
 jobs:
   github-pages:
     runs-on: ubuntu-latest
     env:
-      PAGES_REPO_NWO: bf2fc6cc711aee1a0c2a/architecture
+      PAGES_REPO_NWO: grdryn/architecture
     steps:
       - uses: actions/checkout@v2
 
