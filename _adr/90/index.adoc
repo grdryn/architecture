@@ -18,6 +18,7 @@ include::/_includes/glossary_links.adoc[]
 
 ## Context and Problem Statement
 // What is the background against which this decision is being taken?
+This is a test change to a test ADR for the bot
 
 ## Goals
 // Bulleted list of outcomes that this ADR, if accepted, should help achieve
