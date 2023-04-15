@@ -3,7 +3,7 @@ botUserLogin: archibot-test
 
 # The time, in hours, to wait between checking for stalled discussions
 # 1440 minutes = 24 hours
-stalledDiscussionPollTimeMins: 1440
+stalledDiscussionPollTimeMins: 1440L
 
 # Github logins of people who can do "/create adr" etc on issues
 recordCreationApprovers:
